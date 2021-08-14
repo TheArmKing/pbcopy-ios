@@ -1,0 +1,10 @@
+Package: com.thearmking.pbcopy
+Name: pbcopy
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simple plain-text only pbcopy
+Maintainer: TheArmKing
+Author: TheArmKing
+Section: System
+Tag: role::hacker
